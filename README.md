@@ -1,6 +1,8 @@
+
+
 <h1 align="center">Hi 👋, I'm Shrabanti Debnath</h1>
-<h3 align="center">I am student and passion of mine that I enjoy nothing more than learning the trends that technology is taking in order to work more efficiently and see progress and success</h3>
-* 🌍  I'm based in West Bengal , INDIA.
+<h3 align="center">I am student and passion of mine that I enjoy nothing more than learning the trends that technology is taking in order to work more efficiently and see progress and success. </h3> <br/>
+<h3>🌍 I'm based in West Bengal , INDIA.</h3>
 
 ## 🔰 Let's Connect:
 
@@ -27,9 +29,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=shrabanti99&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shrabanti99&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrabanti99&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=shrabanti99&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
