@@ -1,8 +1,8 @@
 
-
 <h1 align="center">Hi 👋, I'm Shrabanti Debnath</h1>
 <h3 align="center">I am student and passion of mine that I enjoy nothing more than learning the trends that technology is taking in order to work more efficiently and see progress and success. </h3> <br/>
 <h3>🌍 I'm based in West Bengal , INDIA.</h3>
+<img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp"/>
 
 ## 🔰 Let's Connect:
 
